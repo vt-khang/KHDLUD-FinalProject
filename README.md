@@ -1,6 +1,6 @@
 # Đồ án cuối kỳ: KHOA HỌC DỮ LIỆU ỨNG DỤNG
 
-# Đề tài: DỰ ĐOÁN KẾT QUẢ HỌC TẬP CỦA HỌC SINH DỰA TRÊN VIỆC CHƠI GAME
+### Đề tài: Dự đoán kết quả học tập của học sinh dựa trên việc chơi game
 
 | MSSV     | Họ và tên       | Github                      |
 |----------|-----------------|-----------------------------|
