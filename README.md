@@ -55,9 +55,9 @@ License: OPEN SOURCE - MIT
 - Bước 1: Mở file notebook trên Google Colab theo đường dẫn sau.
 - Bước 2: Chạy file notebook từ đầu tới cuối như bình thường.
 
-*Lưu ý:** 
-- Cách 2 chỉ khả dụng khi máy tính bạn có đủ tài nguyên RAM để chạy với tập dữ liệu có kích thước lớn và cách 3 chỉ khả dụng khi nền tảng Google Colab mà nhóm thực hiện đã được nâng cấp phiên bản Pro, do nhóm mình đã thử chạy nhưng không đủ RAM.
-- Các kết quả chạy của cách 2 và cách 3 không biết chính xác được độ đo F1 Score trên tập test ẩn của Kaggle, chỉ thể hiện kết quả dự đoán trên tập valid.
+**Lưu ý:** 
+*- Cách 2 chỉ khả dụng khi máy tính bạn có đủ tài nguyên RAM để chạy với tập dữ liệu có kích thước lớn và cách 3 chỉ khả dụng khi nền tảng Google Colab mà nhóm thực hiện đã được nâng cấp phiên bản Pro, do nhóm mình đã thử chạy nhưng không đủ RAM.*
+*- Các kết quả chạy của cách 2 và cách 3 không biết chính xác được độ đo F1 Score trên tập test ẩn của Kaggle, chỉ thể hiện kết quả dự đoán trên tập valid.*
 
 ### Kết quả
 - Hiệu suất tốt nhất của bài toán do nhóm thực hiện: **F1-Score ~ 0.6799** (Mô hình XGBoost)
