@@ -39,4 +39,28 @@ License: OPEN SOURCE - MIT
 - Hỗ trợ các nhà phát triển phần mềm trò chơi (Game Developer) để tạo ra thêm nhiều trải nghiệm học tập có hiệu quả hơn cho học sinh.
 - Thấy được các lợi ích rộng rãi của các nền tảng học tập dựa trên trò chơi đến với nhiều người hơn.
 
+### Hướng dẫn cách chạy code
+**Cách 1:** Chạy trực tiếp trên trang Kaggle
+- Bước 1: Đăng nhập tài khoản trên trang Kaggle (yêu cầu tài khoản phải được xác minh bằng số điện thoại thì mới tham gia được các cuộc thi).
+- Bước 2: Nhấn "Join Competition" để tham gia vào [cuộc thi](https://www.kaggle.com/competitions/predict-student-performance-from-game-play).
+- Bước 3: Mở file notebook [này]() trực tiếp trên Kaggle và chọn "Copy & Edit".
+- Bước 4: Chạy file notebook từ đầu tới cuối như bình thường.
+
+**Cách 2:** Chạy trên máy local đã cài đặt Jupyter Notebook
+- Bước 1: Thực hiện chạy code từ file "Data.ipynb" để tải tập dữ liệu và tự động giải nén nó.
+- Bước 2: Mở file "19120511_19120526_19120539.ipynb".
+- Bước 3: Chạy file notebook từ đầu tới cuối như bình thường.
+
+**Cách 3:** Chạy trên Google Colab
+- Bước 1: Mở file notebook trên Google Colab theo đường dẫn sau.
+- Bước 2: Chạy file notebook từ đầu tới cuối như bình thường.
+
+*Lưu ý:** 
+- Cách 2 chỉ khả dụng khi máy tính bạn có đủ tài nguyên RAM để chạy với tập dữ liệu có kích thước lớn và cách 3 chỉ khả dụng khi nền tảng Google Colab mà nhóm thực hiện đã được nâng cấp phiên bản Pro, do nhóm mình đã thử chạy nhưng không đủ RAM.
+- Các kết quả chạy của cách 2 và cách 3 không biết chính xác được độ đo F1 Score trên tập test ẩn của Kaggle, chỉ thể hiện kết quả dự đoán trên tập valid.
+
+### Kết quả
+- Hiệu suất tốt nhất của bài toán do nhóm thực hiện: **F1-Score ~ 0.6799** (Mô hình XGBoost)
+- Hiệu suất tốt nhất của bài toán đã được các nhóm khác hoặc tổ chức khác nghiên cứu/thực hiện: **F1-Score ~ 0.706** (được thực hiện [GKOS](https://www.kaggle.com/competitions/predict-student-performance-from-game-play/leaderboard) và đạt top 1 trên bảng xếp hạng tính tới ngày 21/5/2023).
+
 ---
