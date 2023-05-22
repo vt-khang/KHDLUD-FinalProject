@@ -70,8 +70,8 @@ License: OPEN SOURCE - MIT
   │   ├── hcmus-student-performance-prediction-random-forest.ipynb
   │   ├── hcmus-student-performance-prediction-xgboost.ipynb
 ```
-- Bước 2: Mở file "19120511_19120526_19120539.ipynb".
-- Bước 3: Chạy file notebook từ đầu tới cuối như bình thường.
+- Bước 4: Mở file "19120511_19120526_19120539.ipynb".
+- Bước 5: Chạy file notebook từ đầu tới cuối như bình thường.
 
 **Cách 3:** Chạy trên Google Colab
 - Bước 1: Mở file notebook trên Google Colab theo đường dẫn [sau](https://colab.research.google.com/drive/1GvCJux1hCS4HTIIFdfS6okKh-986-JFq).
