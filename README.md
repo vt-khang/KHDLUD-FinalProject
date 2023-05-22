@@ -53,6 +53,7 @@ License: OPEN SOURCE - MIT
 - Bước 1: Tải dữ liệu theo đường dẫn [sau](https://drive.google.com/file/d/1VwFnaXYtIeV3ZeadrcCpLyEXKhFcc-dS).
 - Bước 2: Tạo thư mục "data" đặt kế bên file "19120511_19120526_19120539.ipynb"
 - Bước 3: Giải nén file "predict-student-performance-from-game-play.zip" trong thư mục "data". Phân cấp cây thư mục giống như vậy là có thể chạy được.
+```
   ├── KHDLUD-FinalProject
   │   ├── data
   │   │   ├── jo_wilder
@@ -68,6 +69,7 @@ License: OPEN SOURCE - MIT
   │   ├── hcmus-student-performance-prediction-lightgbm.ipynb
   │   ├── hcmus-student-performance-prediction-random-forest.ipynb
   │   ├── hcmus-student-performance-prediction-xgboost.ipynb
+```
 - Bước 2: Mở file "19120511_19120526_19120539.ipynb".
 - Bước 3: Chạy file notebook từ đầu tới cuối như bình thường.
 
